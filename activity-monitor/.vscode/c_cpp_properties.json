@@ -1,0 +1,19 @@
+{
+    "configurations": [
+      {
+        "name": "Win32",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "C:/path/to/node/headers",
+          "C:/path/to/electron/headers"
+        ],
+        "defines": [ "_DEBUG", "UNICODE", "_UNICODE" ],
+        "windowsSdkVersion": "10.0.xxxxx.0",
+        "compilerPath": "path/to/compiler",
+        "cStandard": "c11",
+        "cppStandard": "c++17"
+      }
+    ],
+    "version": 4
+  }
+  
